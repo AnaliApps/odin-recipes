@@ -1,5 +1,6 @@
 *{
     background-color: cornflowerblue;
+    box-sizing: border-box;
 }
 #header,#nav,.content{
     text-align: center;
